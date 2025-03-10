@@ -35,10 +35,17 @@ experience:
     company: Fujian Jiangxia University
     company_url: ''
     company_logo: org-x
-    location: China
+    location: Fujian, China
     date_start: '2019-09-01'
     date_end: '2023-06-30'
 
+  - title: Non-Degree(Global Research)
+    company: Edith Cowan University
+    company_url: ''
+    company_logo: org-x
+    location: Perth, Australia
+    date_start: '2021-02-01'
+    date_end: '2021-06-30'
 design:
   columns: '1'
 ---
