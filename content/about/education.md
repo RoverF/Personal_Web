@@ -39,7 +39,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2023-06-30'
 
-  - title: Non-Degree(Global Research)
+  - title: Non-Degree(Virtual Global Program)
     company: Edith Cowan University
     company_url: ''
     company_logo: org-x
