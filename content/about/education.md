@@ -25,7 +25,7 @@ experience:
   - title: MSc Data Science and Artificial Intelligence
     company: University of Liverpool
     company_url: ''
-    company_logo: UoL
+    company_logo: UoL.1
     location: Liverpool, United Kingdom
     date_start: '2024-09-01'
     date_end: '2025-12-03'
@@ -42,7 +42,7 @@ experience:
   - title: Non-Degree(Virtual Global Program)
     company: Edith Cowan University
     company_url: ''
-    company_logo: ECU
+    company_logo: ECU.1
     location: Perth, Australia
     date_start: '2021-02-01'
     date_end: '2021-06-30'
