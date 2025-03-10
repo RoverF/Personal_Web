@@ -25,7 +25,7 @@ experience:
   - title: MSc Data Science and Artificial Intelligence
     company: University of Liverpool
     company_url: ''
-    company_logo: org-x
+    company_logo: UoL
     location: Liverpool, United Kingdom
     date_start: '2024-09-01'
     date_end: '2025-12-03'
@@ -34,7 +34,7 @@ experience:
   - title: BA Business English
     company: Fujian Jiangxia University
     company_url: ''
-    company_logo: org-x
+    company_logo: FJU
     location: Fujian, China
     date_start: '2019-09-01'
     date_end: '2023-06-30'
@@ -42,7 +42,7 @@ experience:
   - title: Non-Degree(Virtual Global Program)
     company: Edith Cowan University
     company_url: ''
-    company_logo: org-x
+    company_logo: ECU
     location: Perth, Australia
     date_start: '2021-02-01'
     date_end: '2021-06-30'
