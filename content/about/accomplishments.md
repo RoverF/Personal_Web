@@ -43,7 +43,7 @@ item:
     date_end: ''
     date_start: '2024-04-15'
     description: 'the highest level for English major students'
-    organization: National English Test in China
+    organization: National English Test of China
     organization_url: http://tem.fltonline.cn/
     title: 'TEM-8'
     url: ''
