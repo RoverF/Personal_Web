@@ -42,7 +42,7 @@ item:
   - certificate_url: https://www.academypublication.com/issues2/jltr/vol08/06/27.pdf
     date_end: ''
     date_start: '2024-04-15'
-    description: 'the highest level for English major students'
+    description: 'The highest-level English test certificate in China.'
     organization: National English Test of China
     organization_url: http://tem.fltonline.cn/
     title: 'TEM-8'
