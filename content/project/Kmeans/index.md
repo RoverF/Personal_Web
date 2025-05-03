@@ -1,6 +1,6 @@
 ---
 title: K-Means Clustering Algorithms
-summary: K-Means clustering algorithm for clustering data based on feature similarity
+summary: K-Means algorithm for clustering data based on feature similarity
 tags:
   - SL
 date: 
