@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Organizations/Affiliations
 #organizations:
@@ -22,19 +22,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Blockchain Developer
+- Artificial Intelligence
 - Data Engineering
 
 education:
  courses:
  - course: MSc Data Science and Artificial Intelligence
    institution: University of Liverpool
-   year: 2025
- - course: BA Business English
-   institution: Fujian Jiangxia University
-   year: 2023
- - course: Non-Degree(Virtual Global Program)
+   year: 2024-2025
+ - course: Virtual Globe (Non-Degree)
    institution: Edith Cowan University
    year: 2021
+ - course: BA Business English
+   institution: Fujian Jiangxia University
+   year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
