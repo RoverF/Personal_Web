@@ -46,7 +46,8 @@ experience:
     date_start: '2020-06-30'
     date_end: '2021-06-30'
     description: |2-
-        >Responsibility: Expand the "Radiation" project in the Fuzhou region by coordinating operations at Fujian Jiangxia University and Minjiang College and planning events in Shanghai and Fuzhou. 
+        >Responsibility:
+         Expand the "Radiation" project in the Fuzhou region by coordinating operations at Fujian Jiangxia University and Minjiang College and planning events in Shanghai and Fuzhou. 
 
         >Achievement: 
         * Led a team of 10 in event planning and coordination, marketing, and sales; established two active WeChat groups with 500 members each, contributing to "Radiation" becoming a long-term partner for ESMI, Min Club, MK, and other clubs. 
