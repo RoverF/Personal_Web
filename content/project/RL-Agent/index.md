@@ -1,6 +1,6 @@
 ---
 title: Lunar Lander DRL Agent
-summary: Training a Deep Reinforcement Learning(DRL) agent for safe Lunar Lander touchdown
+summary: A Deep Reinforcement Learning agent for safe Lunar Lander touchdown
 tags:
   - RL
 date: 

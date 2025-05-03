@@ -1,6 +1,6 @@
 ---
 title: CNN Computer Vision
-summary: Accurate visual recognition using a Self-built Convolutional neural network(CNN) and ResNet50
+summary: Self-built Convolutional Neural Network and ResNet50 for visual recognition
 tags:
   - DL
 date: 
