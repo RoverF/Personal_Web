@@ -31,12 +31,13 @@ experience:
     date_end: '2024-02-28'
     description: |2-
         >Responsibility: 
-        * Responsible for finance and manufacturing industry's customer service in global contract customers like AMD/Goldman corporation in Taiwan. 
-        * Understand customers' requirements and directly cooperate with channel and end-users to recommend DELL's total ESG production solution, largely expanding the market. 
+        * Collaborated with global enterprise clients in finance and manufacturing (e.g., AMD, Goldman Sachs) to analyze technical requirements and deliver tailored data center and hybrid cloud solutions.
+        * Partnered with cross-functional teams, including engineers and channel partners, to design and propose end-to-end ESG-focused IT infrastructure solutions, bridging client needs with advanced technologies.
+        * Developed deep expertise in hybrid cloud architectures, data center hardware, and software integrations, enabling effective communication of complex technical concepts to clients.
 
-        >Achievement: 
-        * Mastered basic IT knowledge about data centre and hybrid cloud solutions. 
-        * Achieved $300,000 performances in a quarter. 
+        > Achievements:
+        * Drove adoption of scalable cloud and data center solutions, contributing to a quarterly performance impact of $300,000 by aligning technical offerings.
+        * Practiced Python, MySQL and cloud platforms to better analyze, understand and advocate for cutting-edge infrastructure solutions.
 
   - title: Regional Business Development Manager
     company: Weimin Media Communication Co. Ltd.
@@ -47,7 +48,7 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         >Responsibility:
-         Expand the "Radiation" project in the Fuzhou region by coordinating operations at Fujian Jiangxia University and Minjiang College and planning events in Shanghai and Fuzhou. 
+        * Expand the "Radiation" project in the Fuzhou region by coordinating operations at Fujian Jiangxia University and Minjiang College and planning events in Shanghai and Fuzhou. 
 
         >Achievement: 
         * Led a team of 10 in event planning and coordination, marketing, and sales; established two active WeChat groups with 500 members each, contributing to "Radiation" becoming a long-term partner for ESMI, Min Club, MK, and other clubs. 

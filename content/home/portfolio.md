@@ -28,12 +28,17 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Blockchain
+      tag: BC
+    - name: Un/Supervised Learning
+      tag: SL
     - name: NLP
       tag: NLP
+    - name: Reinforcement Learning
+      tag: RL
+    - name: Deep Learning
+      tag: DL
+
 
 design:
   columns: '1'
