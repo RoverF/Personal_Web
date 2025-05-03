@@ -20,4 +20,4 @@ author: admin
 
 Hi, there! I'm **Frankie**, an MSc DS and Aritificial Intelligence student at University of Liverpool.
 
-Check out my [resumé](/about/) and portfolio below
+Check out my [resume](/about/) and portfolio below
