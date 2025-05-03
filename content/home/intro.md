@@ -19,6 +19,5 @@ author: admin
 ---
 
 Hi, there! I'm **Frankie**, an MSc DS and Aritificial Intelligence student at University of Liverpool.
-{style="font-size: 1.0rem; background:rgb(0, 0, 0); background:rgb(0, 0, 0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below
