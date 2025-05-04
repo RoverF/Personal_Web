@@ -1,6 +1,6 @@
 ---
 title: CNN Computer Vision
-summary: Self-built Convolutional Neural Network and ResNet50 for visual recognition
+summary: Self-built CNN and ResNet50 for visual recognition
 tags:
   - DL
 date: 
