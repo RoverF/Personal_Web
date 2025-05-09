@@ -1,6 +1,6 @@
 ---
 title: Named Entity Recognition
-summary: Ongoing..Stay tuned!
+summary: Bidirectional Long Short-Term Memory(BiLSTM) and Transformer for NER problem
 tags:
   - NLP
 date: 
