@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, there! I'm **Frankie**, an MSc DS and Aritificial Intelligence student at University of Liverpool.
+Hi, there! I'm **Frankie**, an MSc Data Science and Artificial Intelligence student at University of Liverpool.
 
 Check out my [resume](/about/) and portfolio below
