@@ -11,10 +11,10 @@ weight: 20 # The position of section on page
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: aws
-    icon_pack: custom
-    name: AWS
-    description: ''
+  # - icon: aws
+  #   icon_pack: custom
+  #   name: AWS
+  #   description: ''
   - icon: powerbi
     icon_pack: custom
     name: Power-BI
