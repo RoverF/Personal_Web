@@ -3,7 +3,7 @@ widget: featurette # As of v5.8-dev, 'featurette' is renamed 'features'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Skill-Sets
+title: Skill Sets
 subtitle:
 weight: 20 # The position of section on page
 
@@ -17,7 +17,7 @@ feature:
     description: ''
   - icon: powerbi
     icon_pack: custom
-    name: Power BI
+    name: Power-BI
     description: ''
   - icon: sql
     icon_pack: custom
@@ -27,7 +27,7 @@ feature:
   # Example using an emoji as an icon.
   - icon: Scikit-learn
     icon_pack: custom
-    name: scikit-learn
+    name: Scikit-learn
     description: ''
   - icon: PyTorch
     icon_pack: custom

@@ -16,6 +16,17 @@ status:
 #organizations:
 #- name: 腾讯
 #  url: ""
+# type: landing
+
+# sections:
+#   - block: skills
+#     content:
+#       title: Skills
+#       text: ''
+#       # Choose a user to display skills from (a folder name within `content/authors/`)
+#       username: admin
+#     design:
+#       columns: '1'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
