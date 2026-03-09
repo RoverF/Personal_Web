@@ -15,10 +15,6 @@ feature:
   #   icon_pack: custom
   #   name: AWS
   #   description: ''
-  - icon: powerbi
-    icon_pack: custom
-    name: Power-BI
-    description: ''
   - icon: sql
     icon_pack: custom
     name: SQL
