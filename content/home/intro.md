@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, there! I'm **Frankie*. I favour an iterative and trial-and-error approach, embracing a lifelong learning mindset and the courage to live life to the fullest.
+Hi, there! I'm *Frankie*. I favour an iterative and trial-and-error approach, embracing a lifelong learning mindset and the courage to live life to the fullest.
 
 Check out my [resume](/about/) and portfolio below
